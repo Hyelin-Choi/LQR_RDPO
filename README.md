@@ -82,10 +82,4 @@
 * **u\_sol**: Optimal sequence from the Riccati solution.
 * **Metric**: Mean Squared Error (MSE) between $u_{\text{pred}}$ and $u_{\text{sol}}$.
 
----
-
-## 6. Summary
-
-This code implements **Regularized Direct Policy Optimization (RDPO)** for LQR:
-
 
